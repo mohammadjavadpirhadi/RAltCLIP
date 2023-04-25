@@ -1,4 +1,4 @@
 # RAltCLIP
-System used to participate in VWSD task (SemEval-2023)
+System used to solve VWSD task (SemEval-2023)
 
 Coming soon...
